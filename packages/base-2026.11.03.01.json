@@ -1,0 +1,10 @@
+{
+  "product": "Viper Systems Gateway",
+  "line": "base",
+  "version": "2026.11.03.01",
+  "notes": [],
+  "date": "2026-11-03T20:23:45.590Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSystemsGateway-Updates/releases/download/base-2026.11.03.01/web.zip",
+  "sha256": "c6dd6d1137363011c487bc343a3768c66b418a68b809401393702a93406b9667",
+  "size": 286068
+}
