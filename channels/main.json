@@ -1,10 +1,14 @@
 {
   "product": "Viper Systems Gateway",
   "installId": "",
-  "version": "2026.11.03.01",
-  "notes": [],
-  "date": "2026-11-03T20:23:47.773Z",
-  "url": "https://github.com/ViperProDiagnostics/ViperSystemsGateway-Updates/releases/download/base-2026.11.03.01/web.zip",
-  "sha256": "c6dd6d1137363011c487bc343a3768c66b418a68b809401393702a93406b9667",
-  "size": 286068
+  "version": "2026.11.06.01",
+  "notes": [
+    "Gateway: connecting shows each step (VPN, VPS, connected); empty list says to contact Viper Systems",
+    "Gateway: support email back on the Can't reach screen",
+    "Gateway: no explanatory text"
+  ],
+  "date": "2026-11-06T13:12:07.220Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSystemsGateway-Updates/releases/download/base-2026.11.06.01/web.zip",
+  "sha256": "bcc590a19a0be558d2024b717cc741c2c425f0243c5b8d694265a9302d30930e",
+  "size": 287300
 }
