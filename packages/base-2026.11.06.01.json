@@ -1,0 +1,14 @@
+{
+  "product": "Viper Systems Gateway",
+  "line": "base",
+  "version": "2026.11.06.01",
+  "notes": [
+    "Gateway: connecting shows each step (VPN, VPS, connected); empty list says to contact Viper Systems",
+    "Gateway: support email back on the Can't reach screen",
+    "Gateway: no explanatory text"
+  ],
+  "date": "2026-11-06T13:12:05.033Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSystemsGateway-Updates/releases/download/base-2026.11.06.01/web.zip",
+  "sha256": "bcc590a19a0be558d2024b717cc741c2c425f0243c5b8d694265a9302d30930e",
+  "size": 287300
+}
