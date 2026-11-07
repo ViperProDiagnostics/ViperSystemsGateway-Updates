@@ -1,12 +1,12 @@
 {
   "product": "Viper Systems Gateway",
   "installId": "",
-  "version": "2026.11.06.02",
+  "version": "2026.11.06.03",
   "notes": [
-    "Sign-in: set a password with the temporary one, password and authenticator code at each start, two-factor setup and password change in Settings"
+    "Refresh button on the Programs screen"
   ],
-  "date": "2026-11-06T23:31:15.420Z",
-  "url": "https://github.com/ViperProDiagnostics/ViperSystemsGateway-Updates/releases/download/base-2026.11.06.02/web.zip",
-  "sha256": "a447cd3e79cb0a1b3ed21faa955d2abdcb717148f478609c646c930be12a7203",
-  "size": 290410
+  "date": "2026-11-07T00:36:36.036Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSystemsGateway-Updates/releases/download/base-2026.11.06.03/web.zip",
+  "sha256": "919dc2693236ec687d17b46eb301f64b55250c61002f663f39169e9b6049cea0",
+  "size": 291577
 }
